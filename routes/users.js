@@ -1,5 +1,4 @@
 const auth = require('../middleware/auth');
-const isadmnin = require('../middleware/isadmin');
 const express = require('express');
 const bcrypt = require('bcryptjs');
 const router = express.Router();

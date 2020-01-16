@@ -1,3 +1,4 @@
+// const asyncMiddleware = require('../middleware/async');
 const express = require('express');
 const router = express.Router();
 const { Genre, validate } = require('../models/genres');
