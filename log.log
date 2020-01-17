@@ -1,0 +1,97 @@
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T14:20:18.367Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T14:20:18.459Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T14:27:23.309Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T14:27:23.408Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T14:49:04.754Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T14:49:04.813Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T14:56:01.950Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T14:56:02.013Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T15:00:57.154Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T15:00:57.208Z"}
+{"errors":{"name":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","properties":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","type":"maxlength","maxlength":50,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"_message":"Genre validation failed","name":"ValidationError","level":"error","timestamp":"2020-01-17T15:00:57.461Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T15:02:09.026Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T15:02:09.076Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T15:05:52.081Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T15:05:52.129Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T15:06:20.840Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T15:06:20.929Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T15:08:22.084Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T15:08:22.131Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T15:19:28.345Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T15:19:28.395Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T15:26:56.037Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T15:26:56.093Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:20:52.366Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:20:52.456Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:22:05.774Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:22:05.822Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:23:00.085Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:23:00.144Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:23:00.852Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:23:01.017Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:23:26.668Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:23:26.732Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:23:27.608Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:23:27.771Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:23:50.922Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:23:50.990Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:23:51.706Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:23:51.807Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:28:36.819Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:28:36.886Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:28:37.668Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:28:37.771Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:40:48.090Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:40:48.156Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:40:48.598Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:40:48.736Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:43:21.663Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:43:21.801Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:43:21.829Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:43:22.049Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:44:30.951Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:44:31.000Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:44:31.047Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:44:31.171Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:46:52.582Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:46:52.746Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:46:52.757Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:46:52.782Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:48:34.538Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:48:34.572Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:48:34.613Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:48:34.736Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:50:29.841Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:50:29.978Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:50:30.018Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:50:30.057Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:52:03.097Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:52:03.267Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:52:03.295Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:52:03.322Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:52:03.786Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:53:00.612Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:53:00.775Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:53:00.494Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:53:01.616Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:53:01.672Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:55:38.898Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:55:39.195Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:55:39.230Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:55:39.255Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:55:39.889Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:57:10.092Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:57:10.202Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:57:10.227Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:57:10.297Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:57:10.317Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:57:35.499Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:57:35.702Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T16:57:35.838Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:57:35.926Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T16:57:35.669Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T17:11:03.630Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T17:11:03.810Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T17:11:04.816Z"}
+{"level":"info","message":"Server is runing on port 5000","timestamp":"2020-01-17T17:11:08.334Z"}
+{"level":"info","message":"Connected on mongodb://localhost/Movie_app_test...","timestamp":"2020-01-17T17:11:08.865Z"}

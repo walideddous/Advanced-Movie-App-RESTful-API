@@ -1,3 +1,4 @@
 {
-  "jsonSecretKey": ""
+  "jsonSecretKey": "",
+  "db": "mongodb://localhost/Movie_app"
 }
