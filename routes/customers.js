@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { validate, Customers } = require('../models/customers');
+require('express-async-errors');
 
 router.get('/', async (req, res) => {
   const customer = await Customers.find().sort('name');

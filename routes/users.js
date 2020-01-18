@@ -4,6 +4,7 @@ const bcrypt = require('bcryptjs');
 const router = express.Router();
 const _ = require('lodash');
 const { User, validateUser } = require('../models/user');
+require('express-async-errors');
 
 router.get('/me', auth, async (req, res) => {
   // console.log(req.user._id);

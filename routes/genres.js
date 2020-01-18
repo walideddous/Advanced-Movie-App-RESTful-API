@@ -5,6 +5,7 @@ const router = express.Router();
 const { Genre, validate } = require('../models/genres');
 const auth = require('../middleware/auth');
 const isadmin = require('../middleware/isadmin');
+require('express-async-errors');
 
 router.get('/', async (req, res) => {
   const genres = await Genre.find().sort('name');

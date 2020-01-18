@@ -3,6 +3,7 @@ const bcrypt = require('bcryptjs');
 const router = express.Router();
 const Joi = require('joi');
 const _ = require('lodash');
+require('express-async-errors');
 // const config = require('config');
 // const jwt = require('jsonwebtoken');
 
